@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\bin\Debug\net6.0\modul5_1302210049.exe
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\bin\Debug\net6.0\modul5_1302210049.deps.json
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\bin\Debug\net6.0\modul5_1302210049.runtimeconfig.json
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\bin\Debug\net6.0\modul5_1302210049.dll
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\bin\Debug\net6.0\modul5_1302210049.pdb
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.dll
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\refint\modul5_1302210049.dll
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.pdb
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\modul5_1302210049.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Downloads\modul5_1302210049\modul5_1302210049\obj\Debug\net6.0\ref\modul5_1302210049.dll
